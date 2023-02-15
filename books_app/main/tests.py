@@ -8,7 +8,7 @@ from books_app.models import Book, Author, User, Audience, Genre
 
 """
 Run these tests with the command:
-python -m unittest books_app.main.tests
+python3 -m unittest books_app.main.tests
 """
 
 #################################################
